@@ -25,5 +25,5 @@ This project is a content-based movie recommendation system built using Python a
 - Python
 - Pandas
 - Scikit-learn
-- TMDB dataset (CSV or API)
+- TMDB dataset (CSV)
 
