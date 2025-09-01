@@ -2,6 +2,10 @@
 
 This project is a content-based movie recommendation system built using Python and machine learning. It leverages metadata from [The Movie Database (TMDB)](https://www.themoviedb.org/) to suggest similar movies based on user input.
 
+*Source*
+
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 *Features*
 
 - Recommend movies based on title similarity
@@ -25,5 +29,6 @@ This project is a content-based movie recommendation system built using Python a
 - Python
 - Pandas
 - Scikit-learn
+- NLTK
 - TMDB dataset (CSV)
 
